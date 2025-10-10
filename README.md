@@ -21,7 +21,7 @@
 ### ✨ About Me
 
 <p>
-  I'm a developer with a deep interest in <b>[Area of interest 1]</b> and <b>[Area of interest 2]</b>. I enjoy building full-stack web applications, from interface design to backend implementation. Currently, I'm exploring the world of <b>[Technology you are currently learning]</b> to take my projects to the next level.
+  I am a Full-Stack Developer dedicated to building high-quality Web and Mobile applications. I handle the entire lifecycle, from UI/UX design to robust backend implementation. Currently, I'm integrating AI and Machine Learning into my projects to drive innovation and scalability.
 </p>
 <p>
   - 🔭 Currently working on a <b>[Project Name]</b> project.
