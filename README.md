@@ -44,6 +44,10 @@
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="c#" />
         <br>C#
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
@@ -56,10 +60,7 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
+      
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
