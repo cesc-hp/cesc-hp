@@ -24,10 +24,10 @@
   I am a Full-Stack Developer dedicated to building high-quality Web and Mobile applications. I handle the entire lifecycle, from UI/UX design to robust backend implementation. Currently, I'm integrating AI and Machine Learning into my projects to drive innovation and scalability.
 </p>
 <p>
-  - 🔭 Currently working on a <b>[Project Name]</b> project.
+  - 🔭 Currently working as a freelance</b> project.
   - 🌱 Learning about <b>Artificial Intelligence and Machine Learning</b>.
-  - 👯 Looking to collaborate on <b>open-source</b> projects related to JavaScript.
-  - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+  - 👯 Actively looking for my next challenge, whether in a stable company or as a freelance collaborator on dynamic projects.
+  - ⚡ Fun fact: I love a good chess challenge!
 </p>
 
 ---
@@ -40,6 +40,10 @@
   
   <table>
     <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="c#" />
+        <br>Next.js
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
@@ -51,10 +55,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
