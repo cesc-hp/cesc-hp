@@ -38,11 +38,11 @@
   <i>Here are the technologies and tools I'm most comfortable working with.</i>
   <br/><br/>
   
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="c#" />
-        <br>Next.js
+        <br>C#
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
