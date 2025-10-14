@@ -87,16 +87,24 @@
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <br>Spring
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
         <br>CSS3
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-        <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <br>Vue.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxtjs" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="Graphql" />
+        <br>GraphQL
       </td>
     </tr>
   </table>
