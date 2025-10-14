@@ -48,6 +48,10 @@
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
         <br>Java
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
@@ -59,22 +63,17 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
-      </td>
-      
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
+      </td>  
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Dotnet" />
+        <br>.NET
+      </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
