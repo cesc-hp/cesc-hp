@@ -115,9 +115,9 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesc-hp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cesc-hp&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesc-hp&layout=compact&theme=tokyonight" alt="Top Languages Used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesc-hp&theme=tokyonight" alt="Top Languages Used"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesc-hp&theme=tokyonight" alt="Contribution Streak"/>
 </p>
