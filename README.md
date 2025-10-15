@@ -24,8 +24,8 @@
   I am a Full-Stack Developer dedicated to building high-quality Web and Mobile applications. I handle the entire lifecycle, from UI/UX design to robust backend implementation. Currently, I'm integrating AI and Machine Learning into my projects to drive innovation and scalability.
 </p>
 <p>
-  - 🔭 Currently working as a freelance</b> project.
-  - 🌱 Learning about <b>Artificial Intelligence and Machine Learning</b>.
+  - 🔭 Currently working as a freelance project.
+  - 🌱 I'm learning Python to get into Artificial Intelligence and Machine Learning.
   - 👯 Actively looking for my next challenge, whether in a stable company or as a freelance collaborator on dynamic projects.
   - ⚡ Fun fact: I love a good chess challenge!
 </p>
